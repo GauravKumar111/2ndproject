@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Demo3rdPackage</fullName>
+    <types>
+        <members>Account.Territory__c</members>
+        <members>DuplicateRecordSet.Company__c</members>
+        <members>DuplicateRecordSet.Last_Name__c</members>
+        <members>Lead.DB_Lead_Age__c</members>
+        <members>Lead.Primary__c</members>
+        <members>Opportunity.Discount_Percentage__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>43.0</version>
+</Package>
